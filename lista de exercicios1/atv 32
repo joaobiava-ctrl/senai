@@ -1,0 +1,6 @@
+peso_kg = float(input("Digite o peso em quilos))
+
+
+Pesos_gramas = peso_kg * 1000
+
+print("o peso em gramas é: " )
